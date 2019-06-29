@@ -10,6 +10,7 @@ quiz0054SpiralOrder.py
 quiz0169MajorityElement.py
 quiz0174DungeonGame.py
 quiz0229MajorityElement2.py
+quiz0563BinaryTreeTilt.py
 quiz0665PrintBinaryTree.py
 quiz0696CountBinarySubstring.py
 quiz0817LinkedListComponents.py
