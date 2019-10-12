@@ -17,7 +17,7 @@ class Solution:
                     if tuple(tup) == lst:
                         break
                 else:
-                    ans.append(list(lst))
+                    ans.append(list(lst)) 
         
         
         nums.sort()
